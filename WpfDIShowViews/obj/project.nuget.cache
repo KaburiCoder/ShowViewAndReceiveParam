@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iaRYBxQcFItra3DP4XiaSnUG4U+9nIsA8FEjI3sR9Vofb3tHbypQZUD/T/hek6zUrNEvlTpbC3+Hpu6e+XMbWg==",
+  "success": true,
+  "projectFilePath": "C:\\YoutubeLecture\\WpfDIShowViews\\WpfDIShowViews\\WpfDIShowViews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
