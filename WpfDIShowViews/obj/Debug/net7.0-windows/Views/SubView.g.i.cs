@@ -53,7 +53,7 @@ namespace WpfDIShowViews.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfDIShowViews;V1.0.0.0;component/views/subview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfDIShowViews;component/views/subview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\SubView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
