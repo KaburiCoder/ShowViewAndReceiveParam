@@ -21,10 +21,12 @@ namespace WpfDIShowViews.Services
 
     public void ShowView<TView, TViewModel>(object? parameter = null)
      where TView : Window
-     where TViewModel : INotifyPropertyChanged
+     where TViewModel : ViewModelBase
     {
-      INotifyPropertyChanged viewModel = (INotifyPropertyChanged)_serviceProvider.GetService(typeof(TViewModel))!;
+      ViewModelBase viewModel = (ViewModelBase)_serviceProvider.GetService(typeof(TViewModel))!;
       Window view = (Window)_serviceProvider.GetService(typeof(TView))!;
+
+      viewModel.SetWindow(view);
 
       if (parameter != null && viewModel is IParameterReceiver parameterReceiver)
       {

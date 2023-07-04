@@ -9,5 +9,6 @@
   <StackPanel>
     <TextBlock Text="{Binding SubData.StringData}" FontSize="30" Padding="10"/>
     <TextBlock Text="{Binding SubData.IntData}"  FontSize="30" Padding="10"/>
+    <Button Content="종료" Command="{Binding CloseCommand}"/>
   </StackPanel>
 </Window>

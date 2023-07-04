@@ -158,11 +158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\YoutubeLecture\\WpfDIShowViews\\WpfDIShowViews\\WpfDIShowViews.csproj",
+      "projectUniqueName": "C:\\Youtube\\ShowViewAndReceiveParam\\WpfDIShowViews\\WpfDIShowViews.csproj",
       "projectName": "WpfDIShowViews",
-      "projectPath": "C:\\YoutubeLecture\\WpfDIShowViews\\WpfDIShowViews\\WpfDIShowViews.csproj",
+      "projectPath": "C:\\Youtube\\ShowViewAndReceiveParam\\WpfDIShowViews\\WpfDIShowViews.csproj",
       "packagesPath": "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\",
-      "outputPath": "C:\\YoutubeLecture\\WpfDIShowViews\\WpfDIShowViews\\obj\\",
+      "outputPath": "C:\\Youtube\\ShowViewAndReceiveParam\\WpfDIShowViews\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -227,7 +227,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

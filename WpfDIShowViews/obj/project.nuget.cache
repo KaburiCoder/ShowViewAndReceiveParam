@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iaRYBxQcFItra3DP4XiaSnUG4U+9nIsA8FEjI3sR9Vofb3tHbypQZUD/T/hek6zUrNEvlTpbC3+Hpu6e+XMbWg==",
+  "dgSpecHash": "oJiM7pU0p2Yd4bJ6E6nuewj42tHgtaGJsL5SSSmaz10OwId04DWgLnxiWTqnAazrT5q7hCVAjpfw0fPZzpIPJw==",
   "success": true,
-  "projectFilePath": "C:\\YoutubeLecture\\WpfDIShowViews\\WpfDIShowViews\\WpfDIShowViews.csproj",
+  "projectFilePath": "C:\\Youtube\\ShowViewAndReceiveParam\\WpfDIShowViews\\WpfDIShowViews.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",

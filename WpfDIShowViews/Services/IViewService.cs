@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Windows;
 using WpfDIShowViews.Models;
+using WpfDIShowViews.ViewModels;
 
 namespace WpfDIShowViews.Services
 {
@@ -8,7 +9,7 @@ namespace WpfDIShowViews.Services
   {
     void ShowView<TView, TViewModel>(object? parameter = null)
       where TView : Window
-      where TViewModel : INotifyPropertyChanged;
+      where TViewModel : ViewModelBase;
 
     void ShowMainView();
 

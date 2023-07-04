@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\YoutubeLecture\WpfDIShowViews\WpfDIShowViews\obj\Debug\net7.0-windows\
+C:\Youtube\ShowViewAndReceiveParam\WpfDIShowViews\obj\Debug\net7.0-windows\
 WpfDIShowViews
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\YoutubeLecture\WpfDIShowViews\WpfDIShowViews\App.xaml
+C:\Youtube\ShowViewAndReceiveParam\WpfDIShowViews\App.xaml
 21505913777
 
-121122299497
-201197258979
+13207892420
+201-177392626
 Views\MainView.xaml;Views\SubView.xaml;
 
-True
+False
 
